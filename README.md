@@ -1,3 +1,4 @@
 # hello-world
-using hello-world to learn about GitHub
+using hello-world to about GitHub
 continuing to learn more about GitHub
+jgm
